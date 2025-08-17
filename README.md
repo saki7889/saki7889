@@ -7,7 +7,7 @@ Hi! I'm Flourie
 ### 🧑‍💻 Technologies & Tools
 
 <a href="https://discord.com/users/316895231431671809" target="_blank" rel="nofollow">
-   <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
+   <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20sleeping..." alt="Discord Presence" align="right">
 </a>
 
 - 🖥️ Front-end:
