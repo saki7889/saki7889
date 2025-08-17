@@ -1,35 +1,46 @@
-<!-- Welcome -->
-# Hi there, I'm Flourie! 👋
+<img src="assets/wave.svg" alt=":wave:" />
 
-###  My Skills & Expertise
--  **Frontend:** HTML, CSS, JavaScript  
--  **Frameworks:** React, Vue, Tailwind (currently experimenting!)  
--  **Backend:** Node.js, Express  
--  **DevOps:** Docker, GitHub Actions, CI/CD pipelines  
--  **Other tools:** WebSockets, REST APIs, Markdown, SVG badges
+Hi! I'm Flourie
 
-###  Real-Time Discord Activity
+---
+
+### 🧑‍💻 Technologies & Tools
+
 <a href="https://discord.com/users/316895231431671809" target="_blank" rel="nofollow">
    <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
 </a>
 
----
+- 🖥️ Front-end:
 
-### Projects & Activities
-- ⭐ **Pinned Repos:**  
-  - `project-alpha`: A front-end dashboard built with React & TypeScript  
-  - `backend-api`: A RESTful API using Node.js + Express  
--  Automated recent GitHub activity update using GitHub Actions. :contentReference[oaicite:3]{index=3}
+  - TypeScript
+  - React / Next.js
+  - Tailwind CSS / SASS
+  - In the past: HTML/CSS/JS
 
----
+- 🛠 Scripting:
 
-###  Connect with Me
-| Platform     | Link                                 |
-|--------------|--------------------------------------|
-| GitHub       | [github.com/saki7889](https://github.com/saki7889) |
-| Discord      | flourie#7889                          |
-| Portfolio    | castorice.cloud               |
+  - Python
+  - PowerShell
+  - Web Scraping / Selenium
+
+Currently learning Front-end development and soon to the Back-end development.
 
 ---
 
-*(Tip: Use gifs, badges like GitHub stats, and clean Markdown styling to bring extra personality.)* :contentReference[oaicite:4]{index=4}
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 09 August 2025 - To: 16 August 2025
+
+Total Time: 9 hrs 54 mins
+
+PowerShell   2 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
+Bash         1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Other        1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+AGS Script   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+JSON         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+```
+
+<!--END_SECTION:waka-->
