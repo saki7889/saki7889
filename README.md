@@ -21,11 +21,12 @@
 
   - Python
   - PowerShell
-  - Web Scraping / Selenium
+  - Appium
 
 Currently learning Front-end development and soon to the Back-end development.
 
 ---
 
-## ⚔️
-![swordplay](https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif)
+<div align="center">
+  <img src="https://media1.tenor.com/m/oYvAbRrmsvwAAAAC/wuwa-wuthering-waves.gif" alt="swordplay" />
+</div>
