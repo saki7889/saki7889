@@ -1,6 +1,7 @@
-<img src="assets/wave.svg" alt=":wave:" />
+# 👋 Hi! I'm Flourie  
 
-💡 DevOps Engineer • 🔐 Cybersecurity Enthusiast • 🌐 Networking
+I’m passionate about **learning anything that sparks my curiosity** — from breaking systems (ethically) to building them back stronger.  
+✨ *Breaking, building, and automating — one packet at a time.*  
 
 ---
 
@@ -10,20 +11,30 @@
    <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20sleeping..." alt="Discord Presence" align="right">
 </a>
 
-- 🖥️ Front-end:
+- 🔐 **Pentesting & Cybersecurity**  
+  Skilled in vulnerability assessment, exploit research, and ethical hacking practices.  
 
-  - TypeScript
-  - React / Next.js
-  - Tailwind CSS / SASS
-  - In the past: HTML/CSS/JS
+- 🌐 **Networking**  
+  Experienced with routing, firewalls, VPNs, and deep packet inspection.  
 
-- 🛠 Scripting:
+- ☁️ **Cloud & Containers**  
+  Hands-on with Docker, Kubernetes, and cloud-native deployment strategies.  
 
-  - Python
-  - PowerShell
-  - Appium
+- 📱 **Mobile Automation**  
+  Building and testing with **Appium** for end-to-end mobile workflows.  
 
-Currently learning Front-end development and soon to the Back-end development.
+- ⚡ **Web Development**  
+  Developing with **Node.js**, **TypeScript**, **React/Next.js**, and **Tailwind CSS**.  
+
+- 🖥️ **Scripting & Automation**  
+  Automating tasks and systems with **Python**, **Bash**, and **PowerShell**.
+
+### 🌍 Languages
+- 🇬🇧 **English** — Proficient  
+- 🇯🇵 **Japanese** — Currently studying (aiming for **JLPT N2**)  
+
+
+🎯 I am currently aiming for **OSCP+ certification** to sharpen my offensive security expertise.
 
 ---
 
