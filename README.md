@@ -1,6 +1,6 @@
 <img src="assets/wave.svg" alt=":wave:" />
 
-Hi! I'm Flourie
+💡 DevOps Engineer • 🔐 Cybersecurity Enthusiast • 🌐 Networking
 
 ---
 
@@ -27,20 +27,5 @@ Currently learning Front-end development and soon to the Back-end development.
 
 ---
 
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 August 2025 - To: 16 August 2025
-
-Total Time: 9 hrs 54 mins
-
-PowerShell   2 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Bash         1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Other        1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-AGS Script   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-JSON         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-```
-
-<!--END_SECTION:waka-->
+## ⚔️
+![swordplay](https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif)
