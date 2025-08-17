@@ -9,9 +9,9 @@
 -  **Other tools:** WebSockets, REST APIs, Markdown, SVG badges
 
 ###  Real-Time Discord Activity
-I'm using [Lanyard](https://github.com/Phineas/lanyard) to show my live Discord presence:
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/316895231431671809?theme=dark&animated=false)](https://discord.com/users/316895231431671809)
+<a href="https://discord.com/users/316895231431671809" target="_blank" rel="nofollow">
+   <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
+</a>
 
 ---
 
