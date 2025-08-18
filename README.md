@@ -5,29 +5,29 @@ I’m passionate about **learning anything that sparks my curiosity** — from b
 
 ---
 
-### 🧑‍💻 Technologies & Tools
+### 🧑‍💻 Expertise
 
 <a href="https://discord.com/users/316895231431671809" target="_blank" rel="nofollow">
    <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20sleeping..." alt="Discord Presence" align="right">
 </a>
 
-- 🔐 **Pentesting & Cybersecurity**  
-  Skilled in vulnerability assessment, exploit research, and ethical hacking practices.  
+- 🔐 **Cybersecurity**  
+  Vulnerability assessment, exploit research, and ethical hacking.
 
 - 🌐 **Networking**  
-  Experienced with routing, firewalls, VPNs, and deep packet inspection.  
+  Routing, firewalls, VPNs, and deep packet inspection, Listed as an official MikroTik Consultant
 
 - ☁️ **Cloud & Containers**  
-  Hands-on with Docker, Kubernetes, and cloud-native deployment strategies.  
+  Docker, Kubernetes, Terraform 
 
 - 📱 **Mobile Automation**  
-  Building and testing with **Appium** for end-to-end mobile workflows.  
+  Appium, Selenium  
 
 - ⚡ **Web Development**  
-  Developing with **Node.js**, **TypeScript**, **React/Next.js**, and **Tailwind CSS**.  
+  **Node.js**, **TypeScript**, **Next.js**, **Tailwind CSS**.  
 
 - 🖥️ **Scripting & Automation**  
-  Automating tasks and systems with **Python**, **Bash**, and **PowerShell**.
+  **Python**, **Bash**, and **PowerShell**.
 
 ### 🌍 Languages
 - 🇬🇧 **English** — Proficient  
@@ -39,5 +39,5 @@ I’m passionate about **learning anything that sparks my curiosity** — from b
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/oYvAbRrmsvwAAAAC/wuwa-wuthering-waves.gif" alt="swordplay" />
+  <img src="https://media1.tenor.com/m/oYvAbRrmsvwAAAAC/wuwa-wuthering-waves.gif" alt="wife" />
 </div>
