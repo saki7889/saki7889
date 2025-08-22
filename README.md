@@ -11,23 +11,17 @@ I’m passionate about **learning anything that sparks my curiosity** — from b
    <img src="https://lanyard-profile-readme.vercel.app/api/316895231431671809?idleMessage=Probably%20sleeping..." alt="Discord Presence" align="right">
 </a>
 
-- 🔐 **Cybersecurity**  
-  Vulnerability assessment, exploit research, and ethical hacking.
+- Vulnerability assessment, exploit research, ethical hacking.
 
-- 🌐 **Networking**  
-  Routing, firewalls, VPNs, and deep packet inspection, Listed as an official MikroTik Consultant
+- Routing, firewalls, VPNs, and deep packet inspection, listed as an official MikroTik Consultant
 
-- ☁️ **Cloud & Containers**  
-  Docker, Kubernetes, Terraform 
+- Docker, Kubernetes, Terraform 
 
-- 📱 **Mobile Automation**  
-  Appium, Selenium  
+- Appium, Selenium, Puppeteer
 
-- ⚡ **Web Development**  
-  **Node.js**, **TypeScript**, **Next.js**, **Tailwind CSS**.  
+- **Node.js**, **TypeScript**, **Next.js**, **Tailwind CSS**.  
 
-- 🖥️ **Scripting & Automation**  
-  **Python**, **Bash**, and **PowerShell**.
+- **Python**, **Bash**, and **PowerShell**.
 
 ### 🌍 Languages
 - 🇬🇧 **English** — Proficient  
