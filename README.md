@@ -1,8 +1,4 @@
 # 👋 Hi! I'm Flourie  
-
-I’m passionate about **learning anything that sparks my curiosity** — from breaking systems (ethically) to building them back stronger.  
-✨ *Breaking, building, and automating — one packet at a time.*  
-
 ---
 
 ### 🧑‍💻 Expertise
