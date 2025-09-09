@@ -20,8 +20,8 @@
 - **Python**, **Bash**, and **PowerShell**.
 
 ### 🌍 Languages
-- 🇬🇧 **English** — Proficient  
-- 🇯🇵 **Japanese** — Currently studying (aiming for **JLPT N2**)  
+- **English** — Proficient  
+- **Japanese** — Currently studying (aiming for **JLPT N2**)  
 
 
 🎯 I am currently aiming for **OSCP+ certification** to sharpen my offensive security expertise.
